@@ -1,9 +1,11 @@
 # UI Clone <a href="https://stripe.com/br">Stripe</a> menu
 
-<p>
+<img src="./github/demo.gif" />
+
+<h3>
     Acompanhei o vídeo da playlist UI Clone no canal da Rocketseat para realizar o clone desse menu.
     <a href="https://www.youtube.com/watch?v=B7V0q0ZSz2o&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=11">Clique aqui para conferir o vídeo</a>
-</p>
+</h3>
 
 <h3>Ministrado por <a href="https://github.com/guilhermerodz">Guilherme Rodz</a></h3>
 
