@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# UI Clone <a href="https://stripe.com/br">Stripe</a> menu
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
+    Acompanhei o vídeo da playlist UI Clone no canal da Rocketseat para realizar o clone desse menu.
+    <a href="https://www.youtube.com/watch?v=B7V0q0ZSz2o&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=11">Clique aqui para conferir o vídeo</a>
+</p>
 
-## Available Scripts
+<h3>Ministrado por <a href="https://github.com/guilhermerodz">Guilherme Rodz</a></h3>
 
-In the project directory, you can run:
+<h3><a href="https://github.com/rocketseat-content/youtube-clone-stripe-menu">Repositório no github da Rocketseat</a></h3>
 
-### `yarn start`
+# Tecnologias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<ul>
+    <li>ReactJS</li>
+    <li>Styled Components</li>
+    <li>Framer Motion</li>
+</ul>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Instalação
 
-### `yarn test`
+<strong>
+  Será necessários algumas ferramentas: <a href="https://git-scm.com/">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>,
+  nesse projeto utilizei um instalador de pacotes diferente, caso queira usá-lo <a href="https://yarnpkg.com/">Yarn</a>.
+</strong>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br />
 
-### `yarn build`
+<strong>
+  Para clonar o projeto usando HTTPS, use esse comando:
+</strong>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<pre>
+  git clone https://github.com/pdrolucasz/clone-stripe-menu.git
+</pre>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<strong>Navegue até a pasta do projeto e instale as dependências usando esse comando: </strong>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<pre>
+  yarn
+  ou
+  npm install 
+</pre>
 
-### `yarn eject`
+<strong>Para iniciar a aplicação em ambiente de desenvolvimento, utilize esse comando:</strong>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<pre>
+  # http://localhost:3000/
+  yarn dev
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  npm run dev
+</pre>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h3 align="center"> Confira meu <a href="https://www.linkedin.com/in/pedro-lucas-4b2941199/">Linkedin</a></h3>
