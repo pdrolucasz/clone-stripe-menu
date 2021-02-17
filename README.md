@@ -48,9 +48,9 @@
 
 <pre>
   # http://localhost:3000/
-  yarn dev
+  yarn start
 
-  npm run dev
+  npm run start
 </pre>
 
 #
